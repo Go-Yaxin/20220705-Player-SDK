@@ -65,12 +65,13 @@
 /*web内部按钮*/
 .preview-demo-section .preview-demo-item.style-web .demo-item-download .demo-item-download-btn {
     color: #fff;
-		border-radius: 30px;
+		border-radius: 20px;
     background-color: #00a4ff;
     height: 35px;
+		width: 170px;
     line-height: 35px;
     margin-bottom: 6px;
-		font-weight: bold;
+		margin: auto;
 }
 /*内部按钮悬停展示手图标*/
 .preview-demo-section .preview-demo-item .demo-item-download .demo-item-download-btn:hover {

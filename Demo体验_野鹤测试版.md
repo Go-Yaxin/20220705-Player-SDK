@@ -109,7 +109,7 @@
            影视剧集 · 短视频· Feed流
         </div>
         <div class="demo-item-download">
-            <img src="https://qcloudimg.tencent-cloud.cn/raw/6e810724c1102666fcf7cf274c8776b0.png">
+            <img src="https://qcloudimg.tencent-cloud.cn/raw/728d7f5fb63e5790ea3555e5940ef446.png">
         </div>
 								<div class="demo-item-link">
 				<a href="https://github.com/LiteAVSDK/Player_iOS">Demo 源码</a>
@@ -127,7 +127,7 @@
            影视剧集 · 短视频· Feed流
         </div>
         <div class="demo-item-download">
-            <img src="https://main.qcloudimg.com/raw/8a603ced0a61983018c794df842f7029.png">
+            <img src="https://main.qcloudimg.com/raw/6790ddaf4ffe4afd0ceb96b309a16496.png">
         </div>
 					<div class="demo-item-link">
 				<a href="https://github.com/LiteAVSDK/Player_Android">Demo 源码</a>
